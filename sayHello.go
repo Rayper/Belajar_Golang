@@ -1,7 +1,7 @@
 package Belajar_Golang
 
-func SayHello() string {
-	return "Hello"
+func SayHello(name string) string {
+	return "Hello" + name
 }
 
 func UpdateVer() string {
