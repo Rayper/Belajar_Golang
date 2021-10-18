@@ -1,11 +1,11 @@
 package Belajar_Golang
 
 func SayHello(name string) string {
-	return "Hello" + name
+	return "Hello " + name
 }
 
 func UpdateVer() string {
-	return "Update Terbaru"
+	return "Ini adalah versi terbaru"
 }
 
 
