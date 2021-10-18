@@ -4,7 +4,7 @@ func SayHello() string {
 	return "Hello"
 }
 
-func updateVer() string {
+func UpdateVer() string {
 	return "Update Terbaru"
 }
 
