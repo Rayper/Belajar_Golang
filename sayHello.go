@@ -1,5 +1,11 @@
 package Belajar_Golang
 
-func sayHello() string {
+func SayHello() string {
 	return "Hello"
 }
+
+func SayGanteng() string {
+	return "Ganteng banget"
+}
+
+
