@@ -1,3 +1,3 @@
-module github.com/Rayper/Belajar_Golang/v1.1.2
+module github.com/Rayper/Belajar_Golang
 
 go 1.17
