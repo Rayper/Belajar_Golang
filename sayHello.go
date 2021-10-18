@@ -4,8 +4,8 @@ func SayHello() string {
 	return "Hello"
 }
 
-func SayGanteng() string {
-	return "Ganteng banget"
+func updateVer() string {
+	return "Update Terbaru"
 }
 
 
