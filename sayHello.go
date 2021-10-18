@@ -5,7 +5,7 @@ func SayHello(name string) string {
 }
 
 func UpdateVer() string {
-	return "Ini adalah versi terbaru"
+	return "Ini adalah versi 1.1.3 "
 }
 
 
